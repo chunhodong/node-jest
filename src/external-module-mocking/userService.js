@@ -14,5 +14,11 @@ module.exports = {
     const value = await messageService.sendSMS(user.phone,messgae);
     console.log('service sms value =>',value);
 
+  },
+
+  findPost(){
+    const value = messageService.sendPost();
+    console.log('service post value =>',value);
+
   }
 };

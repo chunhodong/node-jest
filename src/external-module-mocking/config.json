@@ -1,0 +1,8 @@
+{
+    "host": "artridgedb.cmd2gizwjrss.ap-northeast-2.rds.amazonaws.com",
+    "port": 3306,
+    "user": "artridge",
+    "password": "ticonteam8!",
+    "database": "stipop",
+    "connectionLimit": 500
+}
